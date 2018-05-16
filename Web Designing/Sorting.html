@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<body>
+<p>Click the button to sort the array:</p>
+<button onclick="myfunction()">Tryit</button>
+<p id="Demo"></p>
+</body>
+<script type="text/javascript">
+var Fruits=['Banana','Apple','Orange','Mango'];
+document.getElementById("Demo").innerHTML=Fruits;
+function myfunction()
+{
+Fruits.sort();
+document.getElementById("Demo").innerHTML=Fruits;
+}
+</script>
+</head>
+</html>

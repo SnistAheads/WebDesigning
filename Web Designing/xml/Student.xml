@@ -1,0 +1,43 @@
+<studentdetails>
+<student>
+    <s.no>1</s.no>
+    <name>Chintakunta Venkatesh Kumar</name>
+    <Rollno>14507-CM-001</Rollno>
+     <login>9:40</login>
+     <logout>1:00</logout>
+    <MobileNumber>8712773353</MobileNumber>
+ </student> 
+<student>
+    <s.no>2</s.no>
+    <name>Marri Sathish Reddy</name>
+    <Rollno>14507-CM-002</Rollno>
+     <login>9:40</login>
+     <logout>1:00</logout>
+     <MobileNumber>8712725365</MobileNumber>
+ </student>   
+<student>
+    <s.no>3</s.no>
+    <name>Mohamed Sabeer</name>
+    <Rollno>14507-CM-003</Rollno>
+     <login>9:40</login>
+     <logout>1:00</logout>
+    <MobileNumber>8754123533</MobileNumber>
+ </student> 
+<student>
+    <s.no>4</s.no>
+    <name>Nadikuda Jai Prakash</name>
+    <Rollno>14507-CM-004</Rollno>
+     <login>9:40</login>
+     <logout>1:00</logout>
+     <MobileNumber>8521426587</MobileNumber>
+ </student>   
+<student>
+    <s.no>5</s.no>
+    <name>Ajay Kumar</name>
+    <Rollno>14507-CM-005</Rollno>
+     <login>9:40</login>
+     <logout>1:00</logout>
+     <MobileNumber>8801264959</MobileNumber>
+ </student>
+</studentdetails> 
+                     
